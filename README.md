@@ -1,5 +1,5 @@
 # Hello there; Welcome 👋🏾 
-[![RCALogo](https://user-images.githubusercontent.com/53254885/212558110-e01e08a6-d4a4-4b04-a4ae-04d5f9053943.png)
+[![Education]([https://user-images.githubusercontent.com/53254885/212558110-e01e08a6-d4a4-4b04-a4ae-04d5f9053943.png](https://twitter.com/rwcodingacademy)
 [![Website Badge](https://img.shields.io/badge/-portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://irakoze-loraine-portfolio.netlify.app/)](https://irakoze-loraine-portfolio.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loraine-irakoze-mukezwa-20268a194/)](https://www.linkedin.com/in/loraine-irakoze-mukezwa-20268a194/)
 [![Twitter Badge](https://img.shields.io/badge/-@IrakozeLoraine-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/IrakozeLoraine)](https://twitter.com/IrakozeLoraine)

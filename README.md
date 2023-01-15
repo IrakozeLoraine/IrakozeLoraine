@@ -20,5 +20,5 @@ I do professionally and personally. I'm passionate about continuously learning a
 - 💼 Job interests: Frontend Engineer and Software Engineer (Junior or Mid level). 
 - 📫 You can [view my resume](https://drive.google.com/file/d/1mjEWRTQ38pGd8ailcw3ny9F1nADua27G/view?usp=sharing) and contact me by emailing mukezwa@gmail.com.
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=meldy2503&show_icons=true&include_all_commits=true&hide_border=true" alt="Loraine's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meldy2503&langs_count=8&layout=compact&hide_border=true" alt="Loraine's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrakozeLoraine&show_icons=true&include_all_commits=true&hide_border=true" alt="Loraine's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrakozeLoraine&langs_count=8&layout=compact&hide_border=true" alt="Loraine's GitHub stats" /> |
 | ------------- | ------------- |

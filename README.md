@@ -1,6 +1,6 @@
 # Hello there; Welcome 👋🏾 
 
-[![Website Badge](https://img.shields.io/badge/-portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=[https://loraine-portfolio.vercel.app/)(https://loraine-portfolio.vercel.app/)](https://loraine-portfolio.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-portfolio-000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=[https://loraine-portfolio.vercel.app/)(https://loraine-portfolio.vercel.app/)]
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loraine-irakoze-mukezwa-20268a194/)](https://www.linkedin.com/in/loraine-irakoze-mukezwa-20268a194/)
 [![Twitter Badge](https://img.shields.io/badge/-@IrakozeLoraine-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/IrakozeLoraine)](https://twitter.com/IrakozeLoraine)
 

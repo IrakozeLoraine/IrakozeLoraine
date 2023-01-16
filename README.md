@@ -18,7 +18,7 @@ I do professionally and personally. I'm passionate about continuously learning a
 - 🌱 I’m proficient in working with React/Context API, React Query, JavaScript(ES6), Nodejs, Springboot, Typescript, Redux, TailwindCSS, SASS, and Git to build excellent and scalable software applications.
 - 😊 I’m open to work on open source projects, Junior or mid-level opportunities. 
 - 💼 Job interests: Frontend Engineer and Software Engineer (Junior or Mid level). 
-- 📫 You can [view my resume](https://drive.google.com/file/d/1mjEWRTQ38pGd8ailcw3ny9F1nADua27G/view?usp=sharing) and contact me by emailing mukezwa@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1MI8Zcow7MPdbK9R2Fgadr5iWZqQ-j1eY/view?usp=sharing) and contact me by emailing mukezwa@gmail.com.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrakozeLoraine&show_icons=true&include_all_commits=true&hide_border=true" alt="Loraine's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrakozeLoraine&langs_count=8&layout=compact&hide_border=true" alt="Loraine's GitHub stats" /> |
 | ------------- | ------------- |

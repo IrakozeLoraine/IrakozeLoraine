@@ -4,12 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loraine-irakoze-mukezwa-20268a194/)](https://www.linkedin.com/in/loraine-irakoze-mukezwa-20268a194/)
 [![Twitter Badge](https://img.shields.io/badge/-@IrakozeLoraine-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/IrakozeLoraine)](https://twitter.com/IrakozeLoraine)
 
-I am a Frontend developer with demonstrated experience in building user friendly
-and responsive websites effectively translating UI/UX design wireframes into 
-interactive, maintainable, and scalable frontend applications. I'm a fast learner, a team
-player and can work independently on any task to arrive at a workable and most
-profitable end point. Excellence, accountability, and conscientiousness is the cornerstone of everything 
-I do professionally and personally. I'm passionate about continuously learning and sharing knowledge.
+Full-stack software engineer with a background in front-end development and a passion for building beautiful and functional web and mobile applications. Strong experience in using technologies such as React, Angular, and Vue.js, and integrating with back-end systems using Node.js and Spring boot. Constantly learning new technologies and best practices to improve my skills and deliver better products. Committed to delivering clean, maintainable, and well-documented code.
 
 **Here's a quick summary about me**: 
 

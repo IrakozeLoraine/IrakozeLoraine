@@ -11,7 +11,7 @@ Full-stack software engineer with a background in front-end development and a pa
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm a bookworm who loves researching, dancing and debating.
 - 🌱 I’m proficient in working with React/Context API, React Query, JavaScript(ES6), Nodejs, Springboot, Typescript, Redux, TailwindCSS, SASS, and Git to build excellent and scalable software applications.
-- 😊 I’m open to work on open source projects, Junior or mid-level opportunities. 
+- 😊 I’m open to work on open source projects, mid-level or senior opportunities.
 - 💼 Job interests: Frontend Engineer and Full-Stack Engineer (Mid level or Senior). 
 - 📫 You can [view my resume](https://drive.google.com/file/d/1m4gUMsrIJ-glzwkoTdscpo9gBqD-qejL/view?usp=sharing) and contact me by emailing mukezwa@gmail.com.
 

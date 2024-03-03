@@ -13,7 +13,7 @@ Full-stack software engineer with a background in front-end development and a pa
 - 🌱 I’m proficient in working with React/Context API, React Query, JavaScript(ES6), Nodejs, Springboot, Typescript, Redux, TailwindCSS, SASS, and Git to build excellent and scalable software applications.
 - 😊 I’m open to work on open source projects, mid-level or senior opportunities.
 - 💼 Job interests: Frontend Engineer and Full-Stack Engineer (Mid level or Senior). 
-- 📫 You can [view my resume](https://drive.google.com/file/d/1m4gUMsrIJ-glzwkoTdscpo9gBqD-qejL/view?usp=sharing) and contact me by emailing mukezwa@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1UPk25TuCuqpMR8_LGAg9u17xVjQUYOO6/view?usp=sharing) and contact me by emailing mukezwa@gmail.com.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrakozeLoraine&show_icons=true&include_all_commits=true&hide_border=true" alt="Loraine's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrakozeLoraine&langs_count=8&layout=compact&hide_border=true" alt="Loraine's GitHub stats" /> |
 | ------------- | ------------- |

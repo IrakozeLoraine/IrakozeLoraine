@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGg5M3poNDUxZjZ2OXRvMHM1NGlubTQzMDJ1NXh3MnUyNTI3bm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/loraine-irakoze-mukezwa-20268a194">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -48,8 +49,14 @@ Full-stack software engineer with a background in front-end development and a pa
   ---
   ### :fire: My Stats :
   
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=IrakozeLoraine" alt="Loraine's Stats"/> | 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrakozeLoraine&show_icons=true&include_all_commits=true&hide_border=true" alt="Loraine's GitHub stats" /> 
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=IrakozeLoraine" alt="Loraine's Stats"/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrakozeLoraine&langs_count=8&layout=compact&hide_border=true" alt="Loraine's GitHub stats" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrakozeLoraine&show_icons=true&include_all_commits=true&hide_border=true" alt="Loraine's GitHub stats" /> 
+
+---
+  
+  <div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrakozeLoraine&langs_count=8&layout=compact&hide_border=true" alt="Loraine's GitHub stats" /> 
+  </div>
+  
 </div>

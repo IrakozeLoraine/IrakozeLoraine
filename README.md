@@ -57,7 +57,7 @@ Full-stack software engineer with a background in front-end development and a pa
   ---
   ### :fire: My Stats :
   
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=IrakozeLoraine" alt="Loraine's Stats"/>
+  <img align="center" src="http://streak-stats.demolab.com?user=IrakozeLoraine" alt="Loraine's Stats"/>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IrakozeLoraine&show_icons=true&include_all_commits=true&hide_border=true" alt="Loraine's GitHub stats" /> 
 

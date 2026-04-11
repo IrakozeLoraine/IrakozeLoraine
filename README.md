@@ -33,7 +33,7 @@ Full-stack software engineer with a background in front-end development and a pa
 - 🌱 I’m proficient in working with React/Context API, React Query, JavaScript(ES6), Nodejs, Springboot, Typescript, Redux, TailwindCSS, SASS, and Git to build excellent and scalable software applications.
 - 😊 I’m open to work on open source projects, mid-level or senior opportunities.
 - 💼 Job interests: Frontend Engineer and Full-Stack Engineer (Mid level or Senior). 
-- 📫 You can [view my resume](https://drive.google.com/file/d/1orXaw02sJET5gZMyjBoEAMqgU-zTfi28/view?usp=sharing) and contact me by emailing mukezwa@gmail.com.
+- 📫 You can contact me by emailing mukezwa@gmail.com.
 
 </div>
 
